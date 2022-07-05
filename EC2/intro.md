@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=tJwFZOenw98
 
 ## this tutorial is good for general steps for working with EC2
 https://www.youtube.com/watch?v=8TlukLu11Yo
+<img width="1548" alt="image" src="https://user-images.githubusercontent.com/81428296/177418447-7dd9b26a-a86c-4e52-863f-65b5a3cf0151.png">
+
 
 ### the common steps include: choose Amazon Machine Image, choose instance type, configure instance, add storage, add tags, configure security group, and review
 <img width="636" alt="image" src="https://user-images.githubusercontent.com/81428296/177418103-9de3dbfb-067a-493e-8986-a6aeca2ab96a.png">
