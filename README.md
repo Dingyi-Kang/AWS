@@ -12,3 +12,4 @@
   * [Intro: how to launch a instance in EC2 and access it](/EC2/intro.md)
   * [How to access S3 bucket from EC2 using IAM](/EC2/accessS3.md)
   * [Benefits of EC2 and S3](/EC2/benefits.md)
+  * [How to upload local files to EC2 using linux terminal](/EC2/uploadLocalFileToEC2.md)
