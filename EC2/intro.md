@@ -14,4 +14,5 @@ https://www.youtube.com/watch?v=tJwFZOenw98
 https://www.youtube.com/watch?v=8TlukLu11Yo
 
 ### the common steps include: choose Amazon Machine Image, choose instance type, configure instance, add storage, add tags, configure security group, and review
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/81428296/177418103-9de3dbfb-067a-493e-8986-a6aeca2ab96a.png">
 <img width="1192" alt="image" src="https://user-images.githubusercontent.com/81428296/177413758-c60b1cc1-0179-41c1-95c8-d3097135a042.png">
