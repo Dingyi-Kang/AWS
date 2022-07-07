@@ -11,5 +11,9 @@
     
 <img width="759" alt="image" src="https://user-images.githubusercontent.com/81428296/177432406-7df53130-be10-4b9b-9d70-fd6fb49add0d.png">
 
+the case for ubuntu
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/81428296/177870879-20754f63-9558-4ecf-906d-c0530031427b.png">
+
+if you are not sure the path of target direcrtory, you can use command "pwd" in command interface
 
 Good article link: https://comtechies.com/how-to-upload-and-download-files-in-amazon-aws-ec2-instance.html
